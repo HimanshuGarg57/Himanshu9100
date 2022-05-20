@@ -8,7 +8,7 @@
   class Person { 
     constructor(name, age) { 
         this.name = name; 
-        this.age = ageofman; 
+        this.age = age; 
     } 
     sing() { 
         return name + " can sing"; 
